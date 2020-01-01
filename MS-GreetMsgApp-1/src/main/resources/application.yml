@@ -1,0 +1,4 @@
+server:
+  port: 8923
+
+spring:  application:    name: GREET-APP-NAME  
